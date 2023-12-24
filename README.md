@@ -28,3 +28,8 @@ Tokens are the user ID you use to generate these codes. You need to install Spyw
 
 You can get one yourself by going to [Opera GX's free nitro page](https://www.opera.com/gx/discord-nitro)), opening the Network tab in developer tools, click the claim button and look for requests to https://api.discord.gx.games/v1/direct-fulfillment or have the term direct-fulfilment in the name (NOT PREFLIGHT!!!), then click it and then go to the request
 
+# Things to note
+- As of 24 December 2023, by using this software, you agree that I (JoshAtticus) CANNOT be held liable for any damage caused by use and that YOU are liable for any legal issues caused by YOUR USE of this software
+- Selling the codes generated for a profit is against Discord ToS
+- This is a proof-of-concept and may stop working at any time in which case I (JoshAtticus) cannot be held liable for
+
