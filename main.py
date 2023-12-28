@@ -2,10 +2,6 @@ import requests
 import time
 from termcolor import colored
 
-import requests
-import time
-from termcolor import colored
-
 def make_request(user_id):
     url = "https://api.discord.gx.games/v1/direct-fulfillment"
     headers = {"Content-Type": "application/json"}
