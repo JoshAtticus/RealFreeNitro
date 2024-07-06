@@ -1,4 +1,4 @@
-# RealFreeNitro
+# RealFreeNitro (Dead)
 (ab)Use Opera GX's promotion in order to get free Nitro gift links (payment method required!). For educational purposes only, don't sue me Opera (your browser sucks anyways).
 
 # Running
